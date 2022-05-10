@@ -23,7 +23,7 @@ def ping(host):
     return msg
 
 #a list that consists of name of containers+IP addresses
-mylist=['Assigncontainer2','172.28.0.4','Assigncontainer3','172.28.0.3','Assigncontainer4','172.28.0.2']
+mylist=['Assigncontainer2','172.28.0.4','Assigncontainer3','172.29.0.2','Assigncontainer4','172.29.0.3']
 #a for loop that will run through the list
 for mylist in mylist:           
     
